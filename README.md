@@ -266,12 +266,6 @@ JWT_SECRET=your_jwt_secret_key
 JWT_EXPIRES_IN=1d
 ```
 
-Important:
-
-- Do not push `.env` to GitHub.
-- Add `.env` inside `.gitignore`.
-- Use `.env.example` to show required variables safely.
-
 ---
 
 ## Installation and Setup
