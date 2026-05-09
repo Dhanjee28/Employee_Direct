@@ -306,11 +306,6 @@ Create a `.env` file and add your database credentials and JWT secret.
 node server.js
 ```
 
-### 7. Open the application
-
-```text
-http://localhost:5002
-```
 
 ---
 
@@ -393,7 +388,7 @@ While building this project, I worked on:
 
 ---
 
-## Author
+<!-- ## Author
 
 **Dhanjee Tiwari**
 
@@ -403,7 +398,7 @@ LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
 
 Email: your.email@example.com
 
----
+--- -->
 
 ## Project Status
 
