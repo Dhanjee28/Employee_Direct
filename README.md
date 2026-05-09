@@ -8,7 +8,7 @@ This project allows users to manage employees and departments through a clean da
 
 ## Why I Built This Project
 
-I built this project as a portfolio project to improve my full-stack development skills and make it strong enough for **SDE-1 / Full Stack Developer roles**.
+I built this project as a portfolio project to improve my full-stack development skills.
 
 This project helped me understand:
 
